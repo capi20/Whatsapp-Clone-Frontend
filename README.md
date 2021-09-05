@@ -1,3 +1,11 @@
+# About
+
+This is a frontend implementation of whatsapp build with React. Tools used
+- React
+- [@material-ui](https://material-ui.com/) for icons
+
+![whatsapp screen](./src/assets/screenshot.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
